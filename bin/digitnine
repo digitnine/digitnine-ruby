@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'digitnine'
+puts Digitnine.hi(ARGV[0])
